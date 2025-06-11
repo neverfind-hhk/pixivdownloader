@@ -3,6 +3,7 @@
 .venv/
 
 # 忽略 Python 常规文件
+build/
 __pycache__/
 *.pyc
 *.pyo
