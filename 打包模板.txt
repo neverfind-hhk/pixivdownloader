@@ -1,0 +1,31 @@
+打包模板
+
+pyinstaller --distpath D:\PixivDownloader --icon="D:\PyP\pixiv\PixivDownloader.ico" login.py --noconsole --onefile    
+
+
+pip install PyQt5==5.12 --proxy="http://127.0.0.1:7890"
+
+pip install PyQtWebEngine==5.12 --proxy="http://127.0.0.1:7890"
+
+altgraph                  0.17.4
+certifi                   2025.1.31
+charset-normalizer        3.4.1
+colorama                  0.4.6
+idna                      3.10
+importlib_metadata        8.6.1
+loguru                    0.7.3
+packaging                 25.0
+pefile                    2023.2.7
+pip                       25.0.1
+pyinstaller               6.13.0
+pyinstaller-hooks-contrib 2025.3
+PyQt5                     5.15.1
+PyQt5_sip                 12.17.0
+PyQtWebEngine             5.15.1
+pywin32-ctypes            0.2.3
+requests                  2.32.3
+setuptools                58.1.0
+urllib3                   2.4.0
+uv                        0.6.14
+win32_setctime            1.2.0
+zipp                      3.21.0

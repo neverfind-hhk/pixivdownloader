@@ -1,0 +1,20 @@
+# 忽略 uv 虚拟环境目录
+.uv/
+.venv/
+
+# 忽略 Python 常规文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 忽略 pyinstallerd打包文件
+*.spec
+
+# 忽略日志和临时文件
+*.log
+*.tmp
+
+# 忽略 IDE 设置
+.vscode/
+.idea/
